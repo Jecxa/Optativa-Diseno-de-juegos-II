@@ -49,11 +49,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\HolaMundo.cs" />
+    <Compile Include="Assets\Scripts\DetectarColision.cs" />
     <Compile Include="Assets\Scripts\ArrastrableFinal.cs" />
     <Compile Include="Assets\Scripts\NavegadorEscenas.cs" />
     <Compile Include="Assets\AbrirURL.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\PlayerInputActions.cs" />
+    <Compile Include="Assets\Scripts\Movimientopinguino.cs" />
     <Compile Include="Assets\Scripts\ControladorTexto.cs" />
   </ItemGroup>
   <ItemGroup>
